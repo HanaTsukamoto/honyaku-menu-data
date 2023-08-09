@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "japanese":"揚げ物",
+        "english":"Today’s recommendation"
+    },
+    {
+        "id": 1,
+        "japanese":"煮物",
+        "english":"Simmered dish"
+    },
+    {
+        "id": 2,
+        "japanese":"串焼き",
+        "english":"Grilled skewers"
+    },
+    {
+        "id": 3,
+        "japanese":"デザート",
+        "english":"Desserts"
+    }
+]
